@@ -1,7 +1,7 @@
 # Loss-Functions-in-Deep-Learning
 Collections of loss functions
 
-## Built With
+## List of losses
 
 * [Triplet Loss](https://arxiv.org/abs/1503.03832) - FaceNet: A Unified Embedding for Face Recognition and Clustering
 * [Triplet Probabilistic Loss](https://arxiv.org/abs/1604.05417) - Triplet Probabilistic Embedding for Face Verification and Clustering
